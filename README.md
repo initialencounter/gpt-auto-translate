@@ -1,7 +1,8 @@
 # ChatGPT自动翻译插件使用教程
 
 ## 视频演示
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyirDtuC_mw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![YouTube视频封面](https://img.youtube.com/vi/gyirDtuC_mw/0.jpg)](https://youtu.be/gyirDtuC_mw)
+
 
 
 ## 1. 安装python依赖
