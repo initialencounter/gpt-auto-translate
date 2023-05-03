@@ -1,5 +1,11 @@
 # ChatGPT自动翻译插件使用教程
 
+## 视频演示
+<video width="320" height="240" controls>
+  <source src="视频演示.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
 ## 1. 安装python依赖
 
 打开server目录，按住shift+鼠标右键，打开终端或powershell。
