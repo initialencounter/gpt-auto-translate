@@ -1,0 +1,11 @@
+.newspan {
+    position: fixed;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: rgb(8, 169, 142);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 14px;
+    z-index: 9999;
+    pointer-events: none;
+  }
+  

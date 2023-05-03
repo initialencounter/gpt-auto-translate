@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "translator",
+    "version": "2.0",
+    "description": "Translator of ChatGPT",
+    "icons": {
+      "48": "icon.png"
+    },
+    "permissions": [
+      "activeTab"
+    ],
+    "content_scripts": [
+      {
+        "matches": [
+          "*://*/*"
+        ],
+        "js": [
+          "contentScript.js"
+        ],
+        "css": [
+          "styles.css"
+        ],
+        "run_at": "document_end"
+      }
+    ]
+  }
+  
